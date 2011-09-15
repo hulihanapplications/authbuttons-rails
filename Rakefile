@@ -17,10 +17,10 @@ Jeweler::Tasks.new do |gem|
   gem.name = "authbuttons-rails"
   gem.homepage = "http://github.com/hulihanapplications/authbuttons-rails"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A collection of authentication provider icons for Rails 3.1/Sprockets}
+  gem.description = %Q{A collection of authentication provider icons for Rails 3.1/Sprockets}
   gem.email = "dave@hulihanapplications.com"
-  gem.authors = ["Dave Hulihan"]
+  gem.authors = ["Dave Hulihan", "Hulihan Applications"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
