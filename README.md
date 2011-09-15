@@ -1,7 +1,7 @@
 # authbuttons-rails
 
 A collection of authentication provider icons for Rails 3.1/Sprockets. Icons are stored in the asset pipeline, so you don't have to copy anything to your app.
-Created from the original [authbuttons](https://github.com/intridea/authbuttons) by [intridea](http://intridea.com/)
+Created from the original [authbuttons](https://github.com/intridea/authbuttons) by [intridea](http://intridea.com/).
 
 ## Installation
 
@@ -30,3 +30,16 @@ Enjoy!
 ### Icon List
 
 Here are the icons included:
+
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/aol_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/basecamp_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/campfire_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/facebook_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/github_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/google_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/linkedin_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/myspace_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/openid_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/presently_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/twitter_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/yahoo_64.png)
