@@ -20,7 +20,7 @@ bundle install
 Use it:
 
 ```ruby
-<%= image_tag("facebook_32") %>
+<%= image_tag("facebook_32.png") %>
 ```
 
 You have resolution choices of 32, 64, 128, and 256 pixels.
