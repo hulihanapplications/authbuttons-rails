@@ -29,26 +29,26 @@ Enjoy!
 
 ### Gallery
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/aol_64.png)
+![Aol](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/aol_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/basecamp_64.png)
+![Basecamp](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/basecamp_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/campfire_64.png)
+![Campfire](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/campfire_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/facebook_64.png)
+![Facebook](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/facebook_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/github_64.png)
+![Github](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/github_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/google_64.png)
+![Google](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/google_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/linkedin_64.png)
+![LinkedIn](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/linkedin_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/myspace_64.png)
+![MySpace](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/myspace_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/openid_64.png)
+![OpenID](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/openid_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/presently_64.png)
+![Presently](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/presently_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/twitter_64.png)
+![Twitter](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/twitter_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/yahoo_64.png)
+![Yahoo](https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/yahoo_64.png)
