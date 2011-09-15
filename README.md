@@ -27,19 +27,28 @@ You have resolution choices of 32, 64, 128, and 256 pixels.
 
 Enjoy!
 
-### Icon List
+### Gallery
 
-Here are the icons included:
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/aol_64.png)
 
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/aol_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/basecamp_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/campfire_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/facebook_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/github_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/google_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/linkedin_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/myspace_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/openid_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/presently_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/twitter_64.png)
-!(https://github.com/hulihanapplications/authbuttons-rails/blob/master/vendor/assets/images/yahoo_64.png)
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/basecamp_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/campfire_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/facebook_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/github_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/google_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/linkedin_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/myspace_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/openid_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/presently_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/twitter_64.png)
+
+!(https://github.com/hulihanapplications/authbuttons-rails/raw/master/vendor/assets/images/yahoo_64.png)
